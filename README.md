@@ -1,4 +1,4 @@
-# Homework Assignment - DS
+# <center>Task: Time Series Classification
 
 ## Given:
 You are given chunks of telemetry data of working equipment (9 sensors, 128 sec) that correspond to 6 different operating modes.
@@ -9,5 +9,3 @@ You are given chunks of telemetry data of working equipment (9 sensors, 128 sec)
 4. If the score on **any of the metrics** is lower than 0.92 on y_test.npy, then add some new features and aim to make the score above 0.92.
 ## Form of the delivery:
 Please, deliver the solution in the form of a Jupyter notebook where EDA, comments and all the scores can be clearly seen.
-## Timing:
-Usually it takes about 2 evenings to complete, but can take up to 4

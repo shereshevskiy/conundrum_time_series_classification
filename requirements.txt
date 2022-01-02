@@ -1,0 +1,17 @@
+jupyter
+jupyterlab
+
+numpy
+scipy
+matplotlib
+pandas
+scikit-learn
+tqdm
+catboost
+seaborn
+
+pandas_profiling
+xgboost
+torch
+torchvision
+torchaudio
